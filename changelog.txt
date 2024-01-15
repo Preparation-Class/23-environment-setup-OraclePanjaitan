@@ -1,1 +1,2 @@
 Untuk run program menggunakan terminal menggunakan gcc t00_01.c lalu out
+printf berguna untuk menampilkan pesan Aloha!
